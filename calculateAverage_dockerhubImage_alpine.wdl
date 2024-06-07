@@ -41,7 +41,7 @@ task CalculateAverage {
     
 
     runtime {
-        docker: "python:3.8.19-alpine3.20"
+        docker: "ltarhan/pythonalpine-06072024"
     }
 
     output {
